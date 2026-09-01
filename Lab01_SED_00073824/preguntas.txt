@@ -1,0 +1,16 @@
+Preguntas - Lab 01 - 00073824
+1. ¿Cuál es el punto más débil de PGP?
+ El punto más vulnerable de un sistema de clave pública/privada es la "passphrase" elegida por el usuario. Por ello, se exige que sea lo más segura posible utilizando símbolos, números, mayúsculas y una longitud de 8 o más caracteres. 
+
+2. ¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+ Es conveniente cuando los participantes pueden intercambiar de manera segura la clave para descifrar el mensaje. También es ideal para evitar el alto costo computacional de cifrar y descifrar que requieren los sistemas asimétricos. 
+
+3.  Ciclo de vida del desarrollo de software seguro (SSDLC): Es un modelo que convierte la preocupación por la seguridad en un proceso continuo para detectar fallas de manera temprana. Sus etapas correspondientes son: 
+ Planning (Planificación): Consideraciones de seguridad. 
+ Design (Diseño): Modelado de amenazas.  
+ Development (Desarrollo): Revisión de código. 
+ Testing (Pruebas): Pruebas integradas. 
+ Release (Lanzamiento): Actualizaciones oportunas. 
+
+
+
